@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * @author Christopher Chiroy, Jose Ochoa, Diego de León
+ * @author Christopher Chiroy Carne 14411, Boris Cifuentes  14150
  * @category Hoja de Trabajo 2
  */
 public class main {
